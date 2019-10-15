@@ -1,0 +1,7 @@
+redis-cli.exe --eval D:\study_163\netease_public_lesson\study-redis-locks\src\main\resources\lua\lock.lua key value , 5000
+
+redis-cli.exe --eval D:\study_163\netease_public_lesson\study-redis-locks\src\main\resources\lua\unlock.lua key value
+
+https://www.cnblogs.com/yanghuahui/p/3697996.html
+
+
